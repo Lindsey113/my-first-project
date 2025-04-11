@@ -5,8 +5,9 @@ const Home = () => {
     <div>
       <h1 className='intro'> Welcome to my first project! </h1>
         <div>
-          I have zero idea what I'm doing, I forgot 90% of what I SHOULD be doing, so we're winging it, kids. 
+          This is a practice project so I can relearn things that I have not studied in a while. 
           I'm making a simple project that includes a login system connected to a weather page. You should not be able to enter the weather page until you are successfully logged in
+          (when the app is complete!)
         </div>
     </div>
   );
